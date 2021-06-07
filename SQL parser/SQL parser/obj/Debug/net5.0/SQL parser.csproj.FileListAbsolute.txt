@@ -1,0 +1,23 @@
+C:\Users\william.kerhaw\Desktop\TestProjects\SQL parser\SQL parser\bin\Debug\net5.0\SQL parser.exe
+C:\Users\william.kerhaw\Desktop\TestProjects\SQL parser\SQL parser\bin\Debug\net5.0\SQL parser.deps.json
+C:\Users\william.kerhaw\Desktop\TestProjects\SQL parser\SQL parser\bin\Debug\net5.0\SQL parser.runtimeconfig.json
+C:\Users\william.kerhaw\Desktop\TestProjects\SQL parser\SQL parser\bin\Debug\net5.0\SQL parser.runtimeconfig.dev.json
+C:\Users\william.kerhaw\Desktop\TestProjects\SQL parser\SQL parser\bin\Debug\net5.0\SQL parser.dll
+C:\Users\william.kerhaw\Desktop\TestProjects\SQL parser\SQL parser\bin\Debug\net5.0\ref\SQL parser.dll
+C:\Users\william.kerhaw\Desktop\TestProjects\SQL parser\SQL parser\bin\Debug\net5.0\SQL parser.pdb
+C:\Users\william.kerhaw\Desktop\TestProjects\SQL parser\SQL parser\obj\Debug\net5.0\SQL parser.csprojAssemblyReference.cache
+C:\Users\william.kerhaw\Desktop\TestProjects\SQL parser\SQL parser\obj\Debug\net5.0\SQL parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\william.kerhaw\Desktop\TestProjects\SQL parser\SQL parser\obj\Debug\net5.0\SQL parser.AssemblyInfoInputs.cache
+C:\Users\william.kerhaw\Desktop\TestProjects\SQL parser\SQL parser\obj\Debug\net5.0\SQL parser.AssemblyInfo.cs
+C:\Users\william.kerhaw\Desktop\TestProjects\SQL parser\SQL parser\obj\Debug\net5.0\SQL parser.csproj.CoreCompileInputs.cache
+C:\Users\william.kerhaw\Desktop\TestProjects\SQL parser\SQL parser\obj\Debug\net5.0\SQL parser.dll
+C:\Users\william.kerhaw\Desktop\TestProjects\SQL parser\SQL parser\obj\Debug\net5.0\ref\SQL parser.dll
+C:\Users\william.kerhaw\Desktop\TestProjects\SQL parser\SQL parser\obj\Debug\net5.0\SQL parser.pdb
+C:\Users\william.kerhaw\Desktop\TestProjects\SQL parser\SQL parser\obj\Debug\net5.0\SQL parser.genruntimeconfig.cache
+C:\Users\william.kerhaw\Desktop\TestProjects\SQL parser\SQL parser\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\william.kerhaw\Desktop\TestProjects\SQL parser\SQL parser\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\william.kerhaw\Desktop\TestProjects\SQL parser\SQL parser\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\william.kerhaw\Desktop\TestProjects\SQL parser\SQL parser\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\william.kerhaw\Desktop\TestProjects\SQL parser\SQL parser\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\william.kerhaw\Desktop\TestProjects\SQL parser\SQL parser\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\william.kerhaw\Desktop\TestProjects\SQL parser\SQL parser\obj\Debug\net5.0\SQL parser.csproj.CopyComplete
