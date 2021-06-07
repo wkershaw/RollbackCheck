@@ -8,7 +8,7 @@ namespace S2C
     class Program
     {
         // Specify all tables to be check after rollback
-        static List<string> tables = new List<string>{ "dbo.M_sys_SystemConfig", "dbo.M_ctr_OrganisationConfigurations", "dbo.M_sys_ExpectedItems", "dbo.M_sys_WorkflowRuleInstanceState" };
+        static List<string> tables = new List<string>{};
 
         static List<string> backupTables = new List<string>();
         static readonly string connString = "Data Source=localhost;Database=S2C;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Connect Timeout=60;Encrypt=False;TrustServerCertificate=False";    
